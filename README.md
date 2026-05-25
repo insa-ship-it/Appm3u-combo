@@ -1,7 +1,9 @@
+## 💎 Disclaimer
+External Links Disclaimer: This repository contains links to third-party websites or content. We do not control, endorse, or assume responsibility for the content, privacy policies, or practices of any third-party websites or services.
+
 ## ⭐ PLAYLISTS
 
-UPDATE: 10/19/25 NEW STREAMS ADDED. (StreamedSU.m3u8 AND buddylive_v1.m3u)
-
+UPDATE: 5/25/26 NEW STREAMS ADDED.
 ▶️ One big playlist.
 
 M3U: https://raw.githubusercontent.com/BuddyChewChew/buddylive-combined/refs/heads/main/combined_playlist.m3u
